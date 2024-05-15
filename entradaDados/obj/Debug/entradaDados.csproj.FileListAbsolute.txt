@@ -1,0 +1,7 @@
+C:\Users\51313002828\Documents\entradaDados\entradaDados\bin\Debug\entradaDados.exe.config
+C:\Users\51313002828\Documents\entradaDados\entradaDados\bin\Debug\entradaDados.exe
+C:\Users\51313002828\Documents\entradaDados\entradaDados\bin\Debug\entradaDados.pdb
+C:\Users\51313002828\Documents\entradaDados\entradaDados\obj\Debug\entradaDados.csproj.AssemblyReference.cache
+C:\Users\51313002828\Documents\entradaDados\entradaDados\obj\Debug\entradaDados.csproj.CoreCompileInputs.cache
+C:\Users\51313002828\Documents\entradaDados\entradaDados\obj\Debug\entradaDados.exe
+C:\Users\51313002828\Documents\entradaDados\entradaDados\obj\Debug\entradaDados.pdb
